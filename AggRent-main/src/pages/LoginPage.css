@@ -1,0 +1,59 @@
+/* LoginPage.css */
+
+.login-container {
+    background: linear-gradient(rgba(32, 9, 101, 0.9), rgba(14, 82, 23, 0.9)),
+    url("../assets/all-images/slider-img/slider-2.jpg");
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f0f0f0;
+  }
+  
+  .login-box {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 18px;
+  }
+  
+  .submit-btn {
+    width: 100%;
+    padding: 10px;
+    background-color: #123f0d;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #123f0d;
+  }
+  
+  .forgot-password {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555;
+  }
+  
+  /* Add more styles as needed */

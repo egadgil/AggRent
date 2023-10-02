@@ -1,0 +1,13 @@
+.payment label {
+  font-weight: 600;
+  color: #063720;
+}
+
+.payment button {
+  padding: 8px 15px;
+  border-radius: 5px;
+  background: #204f06;
+  color: #ba7a7a;
+  border: none;
+  outline: none;
+}
